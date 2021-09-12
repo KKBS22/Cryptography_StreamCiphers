@@ -7,7 +7,7 @@ Implementation of Trivium Stream Cipher and its comparison with a simple LFSR, L
 * Keywords : Cryptography, Cryptanalysis, Stream-Ciphers, IoT
 
 # Abstract
-Abstract—With the advancement of technology, the Internet of
+With the advancement of technology, the Internet of
 Things (IoT) brings a huge number of devices that link to each
 other and gather massive amounts of data. As a result, IoT secuirity 
 requirements are critical. Currently, cryptography is used to
